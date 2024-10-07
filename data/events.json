@@ -1,3 +1,168 @@
-{
-    "key":"value"
-}
+[
+    {
+        "id": 1,
+        "eventType": "IT Manager Event",
+        "venue": "To be decided",
+        "teamSize": "Team Size: 1 participant (single participant from each college)",
+        "rounds": "Rounds: 3 (Stage 1: Questionnaire, Stage 2: Prop Round, Stage 3: HR and Personal Interview)",
+        "contactPerson": "Contact Person: Vineeth Sir (Electronics Department)",
+        "contactNumber": "Number: Not provided",
+        "title": "Apollo Networkor",
+        "description": "Apollo Networkor is a thrilling IT Manager event designed to ignite the passion and creativity of computer science students. Participants will compete in a cyberpunk-themed arena, evaluating their knowledge, wit, and creativity in various rounds, culminating in HR and personal interviews.",
+        "firstPrize": "To be decided",
+        "secondPrize": "To be decided",
+        "thirdPrize": "To be decided",
+        "rules": [
+            "No on-spot registrations allowed.",
+            "Participation is open to individuals only.",
+            "All rules and instructions will be provided during the event."
+        ],
+        "link": "Not provided"
+    },
+    {
+        "id": 2,
+        "eventType": "Quiz Event",
+        "venue": "To be decided",
+        "teamSize": "Team Size: 1-2 participants",
+        "rounds": "Rounds: Prelims, Round 1: General Trivia, Round 2-4: On-spot, Round 5: Rapid Fire Round",
+        "contactPerson": "Contact Persons: Anushka Mazumdar, Lobo Elviz, Kezya",
+        "contactNumber": "Numbers: 7004426001, 8454809232, 7825931777",
+        "title": "Athena’s Cyber Citadel",
+        "description": "Athena’s Cyber Citadel is a tech-themed quiz event that blends ancient wisdom with modern computing. It challenges participants’ knowledge in general trivia, computer science, technology, and current affairs. Teams will navigate multiple quiz rounds, culminating in an intense rapid-fire round.",
+        "firstPrize": "To be decided",
+        "secondPrize": "To be decided",
+        "thirdPrize": "To be decided",
+        "rules": [
+            "No on-spot registrations allowed.",
+            "Participation is open to individuals or teams of 2 members.",
+            "All rules and instructions will be provided during the event."
+        ],
+        "link": "Not provided"
+    },
+    {
+        "id": 3,
+        "eventType": "Treasure Hunt",
+        "venue": "MCA Lab, Central Block",
+        "teamSize": "Team Size: 3-4 members, 2 teams per college",
+        "rounds": "Rounds: Round 1: Elimination, Round 2: Cyberpunk Round, Round 3: Greek Gods Weapon Round",
+        "contactPerson": "Contact Persons: Athul Raja, Lehari, Anosh, Bavirisetty Sairam",
+        "contactNumber": "Numbers: 6235692700, 7795351608, 8884354953, 951337765",
+        "title": "Cratos Cipher Quest",
+        "description": "Cratos Cipher Quest is a thrilling treasure hunt set in a cyberpunk and Greek mythology-themed landscape. Teams will solve riddles, uncover clues, and race against time to find legendary artifacts like Zeus' Lightning Bolt. Participants will need both quick thinking and teamwork to emerge as the ultimate treasure seekers.",
+        "firstPrize": "To be decided",
+        "secondPrize": "To be decided",
+        "thirdPrize": "To be decided",
+        "rules": [
+            "No mobile phones or laptops allowed.",
+            "Participants must be supervised by volunteers.",
+            "Access to restricted areas is prohibited.",
+            "No on-spot registrations.",
+            "Internet will not be provided."
+        ],
+        "link": "Not provided"
+    },
+    {
+        "id": 4,
+        "eventType": "IoT Innovation Competition",
+        "venue": "Venue: To be decided",
+        "teamSize": "Team Size: Up to 3 members",
+        "rounds": "Rounds: Round 1: Idea Submission (Online), Round 2: Presentation and Physical Model Demonstration (Offline)",
+        "contactPerson": "Not provided",
+        "contactNumber": "Not provided",
+        "title": "Hephaestus Nexus",
+        "description": "Hephaestus Nexus challenges participants to innovate IoT solutions that address societal issues. Teams will showcase their creativity through a physical model and presentations, demonstrating how their IoT concepts can have a real-world impact.",
+        "firstPrize": "To be decided",
+        "secondPrize": "To be decided",
+        "thirdPrize": "To be decided",
+        "rules": [
+            "The physical model must reflect the functionality of the idea submitted.",
+            "No on-spot registrations.",
+            "Students may visit and observe the models after the presentations."
+        ],
+        "judgingCriteria": [
+            "Innovation & Creativity: Novelty of the IoT solution.",
+            "Practical Application: Feasibility and real-world applicability.",
+            "Technology Use: Effective integration of IoT technologies.",
+            "Societal Benefits: Impact on addressing societal issues.",
+            "Presentation Skills: Clarity and confidence in explaining the idea.",
+            "Model Demonstration: Effectiveness in showcasing the physical model."
+        ],
+        "roundsDetails": [
+            {
+                "roundNumber": "Round 1",
+                "description": "Idea Submission (Online)",
+                "details": "Participants must submit an IoT-related idea (300-500 words) focusing on innovation, originality, societal benefits, and technology inclusion. The idea should propose a novel solution that addresses issues like healthcare, environment, or infrastructure using IoT technologies."
+            },
+            {
+                "roundNumber": "Round 2",
+                "description": "Presentation & Physical Model Demonstration (Offline)",
+                "details": "Teams will present their IoT project ideas and demonstrate a physical model, emphasizing innovation, societal benefits, and technology integration. The physical model must be A3-sized and showcase the practical application and functionality of the solution."
+            }
+        ],
+        "link": "Not provided"
+    },
+    {
+        "id": 5,
+        "eventType": "Programming and Problem-Solving Challenge",
+        "venue": "MCA Lab, Central Block",
+        "teamSize": "Team Size: Up to 3 members",
+        "rounds": "Rounds: Round 1 - Single Round",
+        "contactPerson": "L Vinay Kumar Reddy",
+        "contactNumber": "8296755149",
+        "title": "Hermes' Bytechase",
+        "description": "Hermes' Bytechase merges ancient Greek mythology with a cyberpunk future, where participants navigate a high-tech underworld filled with mythological figures and challenges. Teams of hackers will use programming, decrypting, and problem-solving skills to outsmart gods and mythical creatures, earning points for completing tasks in this electrifying event.",
+        "firstPrize": "3000",
+        "secondPrize": "2000",
+        "thirdPrize": "1000",
+        "rules": [
+            "Participation is in teams of two or three.",
+            "Network access for Discord and event domain is required.",
+            "All registrations must be done before the event. No on-spot registrations."
+        ],
+        "judgingCriteria": [
+            "Number of points scored.",
+            "In the event of a tie, the fastest team to solve challenges will win."
+        ],
+        "roundsDetails": [
+            {
+                "roundNumber": "Round 1",
+                "description": "Time duration: 1 hour",
+                "details": "Participants will face multiple challenges within a 1-hour time limit. Each challenge is open to all teams and offers points based on difficulty. The team that scores the most points wins. In case of a tie, the fastest-solving team wins."
+            }
+        ],
+        "link": "Not provided"
+    },
+    {
+        "id": 6,
+        "eventType": "Photography Competition",
+        "venue": "To be confirmed",
+        "teamSize": "Individual",
+        "rounds": "Theme-Based Photography: Single Round",
+        "contactPerson": "Rajendra",
+        "contactNumber": "7348875942",
+        "title": "Medusa's Pixelpunk",
+        "description": "Medusa's Pixelpunk is a photography competition that invites participants to creatively interpret a theme set by judges at the event. Participants will capture and present photographs that showcase their unique perspectives, focusing on originality, creativity, and storytelling.",
+        "firstPrize": "To be announced",
+        "secondPrize": "To be announced",
+        "thirdPrize": "To be announced",
+        "rules": [
+            "Photos must be taken during the event using the available surroundings.",
+            "Editing is allowed but should be minimal (basic color correction or cropping).",
+            "Participants must bring their own cameras or smartphones."
+        ],
+        "judgingCriteria": [
+            "Creativity: How unique and innovative the photo is.",
+            "Technical Skill: Quality of shots, including lighting, focus, and composition.",
+            "Storytelling: Ability to tell a story or convey a message through the photo.",
+            "Editing: How well post-production enhances the presentation (if used).",
+            "Aesthetic Appeal: Visual impact, balance in color, composition, and framing."
+        ],
+        "roundsDetails": [
+            {
+                "roundNumber": "Single Round",
+                "description": "Participants will be given a theme at the start of the event. They will have a set time to capture photos based on this theme."
+            }
+        ],
+        "link": "Not provided"
+    }
+]
